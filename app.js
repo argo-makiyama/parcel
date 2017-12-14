@@ -1,0 +1,1 @@
+import "./dev/common/css/hoge.scss"
